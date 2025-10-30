@@ -1,0 +1,7 @@
+.distignore
+.gitignore
+.wordpress-org
+/.git
+/.github
+DEPLOY.md
+LICENSE

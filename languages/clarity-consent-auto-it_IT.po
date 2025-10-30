@@ -1,0 +1,149 @@
+# Italian translation for Clarity Consent Auto
+# Copyright (C) 2025 Giovanni Solone
+# This file is distributed under the MIT license.
+msgid ""
+msgstr ""
+"Project-Id-Version: Clarity Consent Auto 2.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-30 12:00+0100\n"
+"PO-Revision-Date: 2025-10-30 12:00+0100\n"
+"Last-Translator: Giovanni Solone\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: PoEdit\n"
+
+# Plugin main strings
+msgid "Clarity Consent Layer"
+msgstr "Livello di Consenso Clarity"
+
+msgid "Clarity Consent"
+msgstr "Consenso Clarity"
+
+msgid "Automatic consent layer for Microsoft Clarity."
+msgstr "Livello di consenso automatico per Microsoft Clarity."
+
+msgid "Learn more"
+msgstr "Per saperne di più"
+
+# Status section
+msgid "Microsoft Clarity Status"
+msgstr "Status Microsoft Clarity"
+
+msgid "Microsoft Clarity Plugin"
+msgstr "Plugin Microsoft Clarity"
+
+msgid "Active"
+msgstr "Attivo"
+
+msgid "Not installed/active"
+msgstr "Non installato/attivo"
+
+msgid "Project ID"
+msgstr "Project ID"
+
+msgid "Not detected"
+msgstr "Non rilevato"
+
+msgid "Configure Microsoft Clarity plugin with a Project ID first"
+msgstr "Prima configura il plugin Microsoft Clarity con un Project ID"
+
+msgid "Source: %s"
+msgstr "Fonte: %s"
+
+msgid "Consent Layer"
+msgstr "Livello di Consenso"
+
+msgid "Consent is automatically passed to Clarity"
+msgstr "Il consenso viene passato automaticamente a Clarity"
+
+msgid "On Standby"
+msgstr "In Standby"
+
+msgid "Waiting for Project ID from Microsoft Clarity plugin"
+msgstr "In attesa del Project ID dal plugin Microsoft Clarity"
+
+# Setup section
+msgid "Microsoft Clarity Plugin Required"
+msgstr "Plugin Microsoft Clarity Richiesto"
+
+msgid "This consent layer requires the official Microsoft Clarity plugin to be installed and active."
+msgstr "Questo livello di consenso richiede che il plugin ufficiale Microsoft Clarity sia installato e attivo."
+
+msgid "Setup steps:"
+msgstr "Passaggi di configurazione:"
+
+msgid "Install the official Microsoft Clarity plugin from WordPress repository"
+msgstr "Installa il plugin ufficiale Microsoft Clarity dal repository WordPress"
+
+msgid "Activate the Microsoft Clarity plugin"
+msgstr "Attiva il plugin Microsoft Clarity"
+
+msgid "Configure Microsoft Clarity with your Project ID"
+msgstr "Configura Microsoft Clarity con il tuo Project ID"
+
+msgid "Return to this page to configure consent settings"
+msgstr "Torna a questa pagina per configurare le impostazioni di consenso"
+
+msgid "Search for Microsoft Clarity Plugin"
+msgstr "Cerca Plugin Microsoft Clarity"
+
+msgid "Manage Plugins"
+msgstr "Gestisci Plugin"
+
+msgid "Once the Microsoft Clarity plugin is active, configuration options will appear below."
+msgstr "Una volta che il plugin Microsoft Clarity è attivo, le opzioni di configurazione appariranno qui sotto."
+
+# Configuration section
+msgid "Configuration needed:"
+msgstr "Configurazione necessaria:"
+
+msgid "Microsoft Clarity plugin is active but no Project ID was detected."
+msgstr "Il plugin Microsoft Clarity è attivo ma non è stato rilevato alcun Project ID."
+
+msgid "Please configure your Project ID in the Microsoft Clarity plugin settings."
+msgstr "Configura il tuo Project ID nelle impostazioni del plugin Microsoft Clarity."
+
+msgid "Consent Configuration"
+msgstr "Configurazione Consenso"
+
+msgid "Configure how consent is automatically granted to Microsoft Clarity:"
+msgstr "Configura come il consenso viene automaticamente concesso a Microsoft Clarity:"
+
+msgid "Ad Storage Consent"
+msgstr "Consenso Ad Storage"
+
+msgid "Granted (Allow)"
+msgstr "Concesso (Consenti)"
+
+msgid "Denied (Deny)"
+msgstr "Negato (Nega)"
+
+msgid "Consent for storing advertising-related data"
+msgstr "Consenso per la memorizzazione di dati relativi agli annunci"
+
+msgid "Analytics Storage Consent"
+msgstr "Consenso Analytics Storage"
+
+msgid "Consent for storing analytics data"
+msgstr "Consenso per la memorizzazione di dati analitici"
+
+msgid "Save settings"
+msgstr "Salva le impostazioni"
+
+# Detection strings
+msgid "Previously saved ID"
+msgstr "ID salvato in precedenza"
+
+msgid "Microsoft Clarity Plugin (active)"
+msgstr "Plugin Microsoft Clarity (attivo)"
+
+msgid "Detected from:"
+msgstr "Rilevato da:"
+
+# Notices
+msgid "Microsoft Clarity plugin detected. Please complete setup to start to use Clarity Consent Auto plugin."
+msgstr "Plugin Microsoft Clarity rilevato. Completa la configurazione per iniziare a usare il plugin Clarity Consent Auto."
